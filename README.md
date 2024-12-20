@@ -18,6 +18,11 @@ pip install focal-loss-torch
 pip install pandas
 pip install seaborn
 ````
+## Dataset preparation
+Download the following components of the Cell Behavior Video Classification Challenge (CBVCC) from the [official website](https://www.immunemap.org/index.php/challenges-menu/cbvcc): <br>
+[Train](https://www.dp-lab.info/cbvcc/data/training.zip) <br>
+[Test Phase1](https://www.dp-lab.info/cbvcc/data/test_phase1.zip) <br>
+[Test Phase2](https://www.dp-lab.info/cbvcc/data/test_phase2.zip) <br> 
 
 ## Training
 Run:
@@ -31,10 +36,10 @@ python -u test.py
 ````
 
 ## Pre-trained weights
-We initiliaze the Swin3D-B backbone, which is pre-trained on the SomethingSomething v2 dataset.<br>
+We initialize our Swin3D-B backbone with pre-trained weights on the SomethingSomething v2 dataset.<br>
 Swin3D-B with Something-Something v2 pre-training: [Google Drive](https://drive.google.com/uc?export=download&id=1B14MhWCYm9eEy8MW6DqKqioZWkCvs0A0) <br>
 
-Our final scores for Cell Behavior Video Classification Challenge (CBVCC) yield action classes. <br>
+Our final scores on Cell Behavior Video Classification Challenge (CBVCC) is finetiuned on the train set provided bu the challenge. <br>
 **Ours**: [Google Drive]() <br>
 
 ## Contact
