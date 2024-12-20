@@ -37,6 +37,5 @@ Swin3D-B with Something-Something v2 pre-training: [Google Drive](https://drive.
 Our final scores for Cell Behavior Video Classification Challenge (CBVCC) yield action classes. <br>
 **Ours**: [Google Drive]() <br>
 
-````
 ## Contact
 If you have any inquiries or require assistance, please reach out to Jyoti Kini (jyoti.kini@ucf.edu).
