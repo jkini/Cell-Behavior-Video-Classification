@@ -40,7 +40,7 @@ We initialize our Swin3D-B backbone with pre-trained weights on the SomethingSom
 Swin3D-B with Something-Something v2 pre-training: [Google Drive](https://drive.google.com/uc?export=download&id=1B14MhWCYm9eEy8MW6DqKqioZWkCvs0A0) <br>
 
 Our model for the Cell Behavior Video Classification Challenge (CBVCC) is fine-tuned on the training set provided by the challenge. <br>
-**Ours**: [Google Drive]([https://drive.google.com/file/d/](https://drive.google.com/uc?export=download&id=1njaLiE6Ee_aedqg-y7kYlMuweko5Wd_w) <br>
+**Ours**: [Google Drive](https://drive.google.com/uc?export=download&id=1njaLiE6Ee_aedqg-y7kYlMuweko5Wd_w) <br>
 
 ## Contact
 If you have any inquiries or require assistance, please reach out to Jyoti Kini (jyoti.kini@ucf.edu).
