@@ -39,7 +39,7 @@ python -u test.py
 We initialize our Swin3D-B backbone with pre-trained weights on the SomethingSomething v2 dataset.<br>
 Swin3D-B with Something-Something v2 pre-training: [Google Drive](https://drive.google.com/uc?export=download&id=1B14MhWCYm9eEy8MW6DqKqioZWkCvs0A0) <br>
 
-Our final scores on Cell Behavior Video Classification Challenge (CBVCC) is finetiuned on the train set provided bu the challenge. <br>
+Our model for the Cell Behavior Video Classification Challenge (CBVCC) is fine-tuned on the training set provided by the challenge. <br>
 **Ours**: [Google Drive]() <br>
 
 ## Contact
