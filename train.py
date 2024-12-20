@@ -317,7 +317,6 @@ epochs = 100
 
 # Initialize model, optimizer, and loss
 checkpoint_path = '/home/projects/CBVCC/checkpoints/best_model.pt'
-output_csv = '/home/projects/CBVCC/outputs/submission.csv'
 ss_wt_file = '/home/projects/CBVCC/checkpoints/swin_base_patch244_window1677_sthv2.pth'
 
 model = SSModel(num_classes, pretrained_weights_path=ss_wt_file).cuda()
